@@ -1,0 +1,5 @@
+requests~=2.32.3
+img2pdf
+pdf2image~=1.17.0
+pymupdf
+fastapi[standard]
