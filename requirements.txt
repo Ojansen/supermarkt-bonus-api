@@ -3,3 +3,4 @@ img2pdf
 pdf2image~=1.17.0
 pymupdf
 fastapi[standard]
+Flask==3.0.3
