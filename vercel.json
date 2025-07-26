@@ -1,5 +1,3 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/supermarkt-bonus-api/main" }
-  ]
+  "redirects": [{ "source": "/", "destination": "/supermarkt-bonus-api" }]
 }
